@@ -8,18 +8,20 @@
 
 >>For adding more colors to the detection device, add the color in the code as soecified by the example of "custom1_color" in the code.
 
-# Tools Needed #
+# Tools Needed
 
 >>Arduino NANO - 1 
 
 >>TCS3200 color sensor - 1
+
+>>Common Cathode RGB Led - 1
 
 >>Jumper Wires(Male to Female) - 7
 
 >>Computer(to upload the code into Arduino NANO) - 1
 
 
-# Wiring #
+# Wiring
 
 TCS3200---ArduinoNANO(PIN)
 
@@ -36,3 +38,13 @@ TCS3200---ArduinoNANO(PIN)
 >>GND--04
 
 >>VCC--27
+
+RGB Led---ArduinoNANO(Pin)
+
+>> Common Cathode---GND(Pin 29)
+
+>>Red Pin---Pin 19
+
+>>Green Pin---Pin 20
+
+>>Blue Pin---Pin 21
