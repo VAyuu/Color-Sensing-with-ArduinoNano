@@ -5,7 +5,7 @@ This program caliberated a arduino nano for a fixed pre-decided colors and only 
 Caliberate the device whenever the sorroundings light conditions seems to be changed compared to that of previous caliberation.
 For adding more colors to the detection device, add the color in the code as soecified by the example of "custom1_color" in the code.
 
---Tools Needed--
+Tools Needed--
 Arduino NANO - 1
 TCS3200 color sensor - 1
 Jumper Wires(Male to Female) - 7
