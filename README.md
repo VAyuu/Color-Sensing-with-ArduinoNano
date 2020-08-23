@@ -2,20 +2,20 @@
 
 # Tools Needed
 
->>Arduino NANO - 1 
+>>Arduino NANO - 1 Pc
 
->>TCS3200 color sensor - 1
+>>TCS3200 color sensor - 1 Pc
 
->>Common Cathode RGB Led - 1
+>>Common Cathode RGB Led - 1 Pc
 
->>Jumper Wires(Male to Female) - 7
+>>Jumper Wires(Male to Female) - 7 Pc
 
->>Computer(to upload the code into Arduino NANO) - 1
+>>Computer(to upload the code into Arduino NANO) - 1 Pc
 
 
 # Wiring
 
-## TCS3200---ArduinoNANO(PIN)
+## TCS3200---ArduinoNANO(Pin)
 
 >>S0---05
 
